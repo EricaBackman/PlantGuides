@@ -5,17 +5,17 @@
       <input
         type="button"
         value="-"
-        @click="$store.commit('decrease')"
+        @click="this.$store.commit('decrease')"
       />
       <input
         type="text"
-        :value="$store.state.qty"
+        :value="this.$store.state.qty"
         size="1"
       />
       <input
         type="button"
         value="+"
-        @click="$store.commit('increase')"
+        @click="this.$store.commit('increase')"
       />
     </div>
   </div>
