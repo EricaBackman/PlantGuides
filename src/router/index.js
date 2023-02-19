@@ -11,8 +11,9 @@ const router = createRouter({
     },
     {
         path: `/:id`,
-        name: 'plantpage',
-        component: () => import('../views/PlantView.vue')
+        name: 'PlantPage',
+        component: () => import('../views/PlantView.vue'),
+        props: true
     },
     {
       path: '/about',

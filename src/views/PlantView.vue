@@ -1,18 +1,17 @@
 <script setup>
-import { RouterView } from "vue-router";
+import PlantPage from '../components/PlantPage.vue'
 import QtyButton from "../components/QtyButton.vue"
 </script>
-<template>
-  <div>
-    <h1>{{ $route.params }}</h1>
-    <h1>{{ $route.params.id }}</h1>
-    <h1>{{ this.plants }}</h1>
-    <h1>{{ this.plant }}</h1>
-    <h1>{{}}</h1>
-  </div>
 
-  <RouterView />
-  <QtyButton />
+<template>
+    <div >
+        <plant-page v-for="plant in plants"
+                    :key="plant.id"
+                    :fetchOne="plant"
+                    :v-if="plantMatch"
+                    />
+    </div>
+    <QtyButton />
 </template>
 <script>
 export default {
@@ -28,26 +27,26 @@ export default {
   },
   data() {
     return {
-      plants: "",
-      plant: "",
-      id: "",
-      name: "",
+      plants: [],
     };
   },
+  components: { 'plant-page': PlantPage },
   methods: {
-    async fetchPlant(plant) {
-      console.log(plant);
-      const res = await fetch("/plant.json/" + plant.id);
+    async fetchPlant() {
+      console.log();
+      const res = await fetch("/plant.json/");
+
       const result = await res.json();
-      console.log(result);
       this.plants = result;
+      console.log(result);
     },
-  },
-  // props: {
-  //     plantFetch: {
-  //         required: true,
-  //         type: Object
-  //     }
-  // }
+    plantMatch() {
+         this.plant.id === this.$route.params.id
+    }
+  }
+
 };
 </script>
+<style>
+
+</style>
