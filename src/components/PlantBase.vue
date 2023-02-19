@@ -1,3 +1,7 @@
+<script setup>
+import { RouterLink } from 'vue-router';
+</script>
+
 <template>
     <!-- Bootstrap card -->
     <div class="col">
@@ -9,15 +13,22 @@
             />
             <div class="card-body">
                 <h4 class="card-title">{{ plantFetch.name }}</h4>
-                <p v-if="reveal" class="card-text">
+                <div v-if="reveal" >
+                    <p class="card-text">
                     {{ plantFetch.description }}
                 </p>
                 <a href="#" class="btn btn-dark btn-sm" @click="revealguide"
+                    >Close Guide</a
+                 >
+                <router-link :to="`/${plantFetch.id}`"><input type="button" class="btn btn-dark btn-sm" value="Read more"></router-link>
+                </div>
+                <a v-if="!reveal" href="#" id="open-btn" class="btn btn-dark btn-sm" @click="revealguide"
                     >Open Guide</a
                 >
             </div>
         </div>
     </div>
+
 </template>
 
 <script>

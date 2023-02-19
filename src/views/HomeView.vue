@@ -11,7 +11,7 @@
     <div class="headers">
         <h1>{{ plantHeader }}</h1>
     </div>
-    <!-- PlantBase (cards) som ligger i en v-for och renderas en gång för arje object i plant.json -->
+    <!-- PlantBase (cards) som ligger i en v-for och renderas en gång för varje object i plant.json -->
     <div class="plant-card">
         <div class="container text-center">
             <div class="row align-items-start">
@@ -23,6 +23,7 @@
             </div>
         </div>
     </div>
+
 </template>
 
 <script>
@@ -34,16 +35,21 @@
             }
         },
         components: { 'plant-cards': PlantBase },
-        mounted() {
+        created() {
             this.fetchData()
         },
+
         methods: {
+
             async fetchData() {
-                const res = await fetch('plant.json')
+                const res = await fetch(`plant.json/`)
                 const result = await res.json()
+                console.log (result)
                 this.plants = result
+
             }
         }
+
     }
 </script>
 <style>

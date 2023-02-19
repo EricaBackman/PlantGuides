@@ -3,7 +3,7 @@
 </script>
 <template>
     <div id="hero-wrapper">
-    <img src="../../public/img/hero-cactus.jpg"
+    <img src="../../img/hero-cactus.jpg"
     class="img-fluid"
     alt="Green plant"
     />

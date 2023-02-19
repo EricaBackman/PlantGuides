@@ -1,72 +1,72 @@
 [
-        {
-            "id": "1",
-            "name": "Monstera",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/monstera1.jpg"
-        },
-        {
-            "id": "2",
-            "name": "Cactus",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/cactus.jpg"
-        },
-        {
-            "id": "3",
-            "name": "Boranora",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/Boranora.jpg"
-        },
-        {
-            "id": "4",
-            "name": "Biggie",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/big.jpg"
-        },
-        {
-            "id": "5",
-            "name": "Violin fig",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/fig.jpg"
-        },
-        {
-            "id": "6",
-            "name": "Fig tree",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/fig-tree.jpg"
-        },
-        {
-            "id": "7",
-            "name": "Hobiclaus",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/Hobiclaus.jpg"
-        },
-        {
-            "id": "8",
-            "name": "Mini fig",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/mini-fig.jpg"
-        },
-        {
-            "id": "9",
-            "name": "Shine",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/shine.jpg"
-        },
-        {
-            "id": "10",
-            "name": "Waves",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
-            "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
-            "img": "./img/waves.jpg"
-        }
+  {
+    "id": "1",
+    "name": "Monstera",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/monstera1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Cactus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/cactus.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Boranora",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/Boranora.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Biggie",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/big.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Violin fig",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/fig.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Fig tree",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/fig-tree.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Hobiclaus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/Hobiclaus.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Mini fig",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/mini-fig.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Shine",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/shine.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Waves",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis lorem sit amet tortor convallis pulvinar sed sit amet libero.",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non nulla scelerisque, imperdiet tellus non, tincidunt turpis. Etiam at metus mi. Pellentesque nisl velit, porta ac neque eu, porta aliquet orci. Proin et sapien sollicitudin, volutpat lectus sed, commodo ex. Donec aliquam elit id volutpat luctus. Sed urna mauris, vulputate id condimentum pulvinar, bibendum at nunc. Phasellus vehicula dictum dui, eu interdum nibh pharetra non. Quisque ut dolor tincidunt, fermentum sem sed, facilisis nisl.",
+    "img": "./img/waves.jpg"
+  }
 ]
