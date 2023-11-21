@@ -4,7 +4,7 @@ import router from './router/index'
 import store from './store'
 import 'bootstrap/dist/css/bootstrap.css'
 import bootstrap from 'bootstrap/dist/js/bootstrap.bundle.js'
-import './assets/index.css'
+import './index.css'
 
 
 const app = createApp(App)
