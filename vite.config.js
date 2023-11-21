@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: '/plantguides',
+    base: '/index.html',
   plugins: [vue()],
   resolve: {
     alias: {
