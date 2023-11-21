@@ -9,14 +9,14 @@
         <h1 id="big-header">We love green plants.</h1>
     </div>
     <div class="col-sm image">
-      <img src="../../public/img/house-plants2.jpg" alt="">
+      <img src="../../img/house-plants2.jpg" alt="">
     </div>
   </div>
 
 
   <div class="row">
     <div class="col-sm image">
-        <img src="../../public/img/monstera-pink.jpg" alt="">
+        <img src="../../img/monstera-pink.jpg" alt="">
     </div>
     <div class="col-sm">
       <h1 id="small-header">So who are we?</h1>
